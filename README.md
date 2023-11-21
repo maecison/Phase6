@@ -5,10 +5,11 @@ What is your security recommendation? Why did you choose it?
 -	My security recommendation would be for mobile app authentication architecture, specifically to implement strong password policies. We chose this recommendation because we require users to create accounts that include a username and password. It is important for our users to be safe from unauthorized access. For a minigame app, this recommendation makes sense compared to others that are overkill and unnecessary. One would be two-factor authentication because since we do not ask the users for any personal information, users would find it a cumbersome process.
 
 Who does the recommendation benefit (end-user, developer, etc.)?
--	The recommendation benefits both end-users and developers. This benefits end-users because they feel secured and safe when using the app. It is less likely for their account to be hacked or compromised due to this recommendation. End-users are more likely to keep using the app knowing we are taking safety measures. This benefits developers because the app they made is less likely to have a security breach. If a security breach occurs, the reputation of the developers could be affected. Developers will feel more relaxed and not prone to any legal liabilities. 
-If the recommendation was found somewhere other than the provided checklist, include a link to it.
+-	The recommendation benefits both end-users and developers. This benefits end-users because they feel secured and safe when using the app. It is less likely for their account to be hacked or compromised due to this recommendation. End-users are more likely to keep using the app knowing we are taking safety measures. This benefits developers because the app they made is less likely to have a security breach. If a security breach occurs, the reputation of the developers could be affected. Developers will feel more relaxed and not prone to any legal liabilities.
 
+If the recommendation was found somewhere other than the provided checklist, include a link to it.
 -	This was found in the provided checklist: https://github.com/muellerberndt/android_app_security_checklist
+
 When would the recommendation have to be implemented (based on how serious the security risk is)?
 -	This security recommendation should be implemented as soon as possible since the security risk is very high. It should be prioritized, especially before it is released to the public. This will ensure that the users are protected from the very beginning.
 
