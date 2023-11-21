@@ -1,4 +1,4 @@
-# Phase6
+# Phase 6
 Security Recommendations
 
 What is your security recommendation? Why did you choose it?
